@@ -28,4 +28,6 @@ CertOnChain is a decentralized web application (DApp) for issuing and verifying 
 4. **Upload File to IPFS** and store hash + metadata on blockchain
 5. **Verifier Portal** allows users to upload a certificate and verify it against the stored hash
 
-
+🙏 Acknowledgements
+Prof. Jhuma Dutta, Assistant Professor, CSE, JGEC
+Dr. Subhas Barman, HOD, CSE, JGEC

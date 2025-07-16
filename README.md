@@ -29,5 +29,5 @@ CertOnChain is a decentralized web application (DApp) for issuing and verifying 
 5. **Verifier Portal** allows users to upload a certificate and verify it against the stored hash
 
 ## 🙏 Acknowledgements
-Prof. Jhuma Dutta, Assistant Professor, CSE, JGEC
+Prof. Jhuma Dutta, Assistant Professor, CSE, JGEC<br>
 Dr. Subhas Barman, HOD, CSE, JGEC
